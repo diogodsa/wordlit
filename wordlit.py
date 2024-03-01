@@ -368,7 +368,7 @@ def main():
 
     _author_ = "https://www.linkedin.com/in/sahir-maharaj/"
 
-    st.title("Wordlit Diogo.net")
+    st.title("Wordlit Walla Diogo.net")
     st.markdown(
         """
         This tool uses NLP to generate a knowledge graph from the text you provide.\n
